@@ -3,7 +3,7 @@
  *
  * Date: 2020/08/10
  *
- * A simple hello world program in C
+ * A simple program  that prints my name and major in C
  *
  */
 #include <stdlib.h>
