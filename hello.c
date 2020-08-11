@@ -1,5 +1,5 @@
 /**
- * Author: Eruc Hinderer
+ * Author: Eric Hinderer
  *
  * Date: 2020/08/10
  *
@@ -12,6 +12,7 @@
 int main(int argc, char **argv) {
 
   printf("Eric Hinderer\n");
+  printf("I am majoring in computer science\n");
 
   return 0;
 }
