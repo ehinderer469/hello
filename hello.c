@@ -1,5 +1,5 @@
 /**
- * Author: Eric Hinderer, Austin Lempke
+ * Author: Eric Hinderer, Austin Lempke alempke1
  *
  * Date: 2020/08/19
  *
