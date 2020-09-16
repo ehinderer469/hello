@@ -15,6 +15,8 @@ int main(int argc, char **argv) {
   printf("Austin Lempke\n" );
   printf("Computer Science\n" );
 
+  printf("This is a test commit");
+
 
   return 0;
 }
