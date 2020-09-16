@@ -17,6 +17,8 @@ int main(int argc, char **argv) {
 
   printf("This is a test commit");
 
+  printf("Showing austin")
+
 
   return 0;
 }
